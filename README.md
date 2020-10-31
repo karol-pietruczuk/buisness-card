@@ -1,2 +1,2 @@
 ### buisness-card
-**Wizytówka***
+**Wizytówka**
